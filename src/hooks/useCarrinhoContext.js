@@ -47,6 +47,7 @@ export const useCarrinhoContext = () => {
         carrinho,
         setCarrinho,
         adicionarProduto,
+        removerProduto,
     }
 
 };
